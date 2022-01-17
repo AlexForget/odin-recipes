@@ -1,3 +1,23 @@
 body {
-  background-color: blue;
+  background-color: rgb(255, 254, 175);
+  font-family: cursive, sans-serif;
+  font-size: 20px;
+}
+
+.disclaimer {
+  font-size: 14px;
+}
+
+h3 {
+  color: darkslategrey;
+  text-decoration: underline;
+}
+
+ol li {
+  text-align: justify;
+}
+
+img {
+  height: auto;
+  width: 500px;
 }
